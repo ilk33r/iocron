@@ -1,5 +1,8 @@
 # Object files
+<<<<<<< HEAD
 .deps
+=======
+>>>>>>> 4a60ce3e4823555b2da8dd654697202d90667f20
 *.o
 *.ko
 *.obj
@@ -11,7 +14,10 @@
 
 # Libraries
 *.lib
+<<<<<<< HEAD
 .libs
+=======
+>>>>>>> 4a60ce3e4823555b2da8dd654697202d90667f20
 *.a
 *.la
 *.lo
@@ -32,6 +38,7 @@
 
 # Debug files
 *.dSYM/
+<<<<<<< HEAD
 
 acinclude.m4
 aclocal.m4
@@ -66,3 +73,5 @@ tests/*/*.php
 tests/*/*.exp
 tests/*/*.log
 tests/*/*.sh
+=======
+>>>>>>> 4a60ce3e4823555b2da8dd654697202d90667f20
